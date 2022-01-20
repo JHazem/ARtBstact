@@ -19,8 +19,7 @@ public class Musem {
 		System.out.println(s1);
 		System.out.println(s2);
 		
-		museum.add(p1);
-		
+
 	}
 
 }
